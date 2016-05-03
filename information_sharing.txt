@@ -1,0 +1,4 @@
+#Stuff I know about information sharing
+#http://www.heritage.org/research/reports/2013/04/a-congressional-guide-seven-steps-to-us-security-prosperity-and-freedom-in-cyberspace
+#http://www.cio.com/article/2384269/cybercrime/economic-impact-of-cyber-espionage-and-ip-theft-hits-u-s--businesses-hard.html
+#https://securityintelligence.com/information-sharing-is-key-to-managing-cyber-risks/
